@@ -8,7 +8,7 @@ Tengo experiencia en desarrollo de aplicaciones móviles, colaboración en equip
   <img src="https://github-readme-stats.vercel.app/api?username=leandro1995&show_icons=true&theme=cobalt&custom_title=Estadisticas%20del%20repositorio&rank_icon=github" alt="Estadisticas del repositorio">
 </div>
 
-<h2 align="left">Tecnologías:</h2>
+<h2 align="left">Herramientas:</h2>
 <li>
   <b>Versión de control:</b><br/><br/>
   <ul>
@@ -17,9 +17,12 @@ Tengo experiencia en desarrollo de aplicaciones móviles, colaboración en equip
     <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
   </ul>
 </li>
-
-<h2 align="left">Editor:</h2>
-<img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio">
+<li>
+  <b>Editor:</b><br/><br/>
+  <ul>
+    <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio">
+  </ul>
+</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
