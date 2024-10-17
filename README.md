@@ -1,4 +1,4 @@
-<h1>Hola 👋, Soy Leandro Castillo Borja</h1>
+<h1>Hola, Soy Leandro Castillo Borja 🌕🍂🍂</h1>
 <h3>Soy un desarrollador móvil apasionado en el mundo Android del Perú</h3>
 <p>Desarrollador Android con 4 años de experiencia utilizando Kotlin, manejo completo de Firebase y Git. Apasionado por la tecnología y el desarrollo móvil con Android, siempre busco la mejor manera de realizar proyectos de calidad y superarme en cada uno de ellos.
 <br/><br/>
@@ -39,7 +39,6 @@ Tengo experiencia en desarrollo de aplicaciones móviles, colaboración en equip
 <h2 align="left">Lenguaje de programación:</h2>
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 </p>
-
 <h2 align="left">Redes sociales:</h2>
 <p align>
   <a href="https://www.linkedin.com/in/leandro-castillo-67951b15a/" target="_blank">
