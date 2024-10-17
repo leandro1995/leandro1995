@@ -30,6 +30,13 @@ Tengo experiencia en desarrollo de aplicaciones móviles, colaboración en equip
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   </ul>
 </li>
+<li>
+  <b>CD/CI:</b><br/><br/>
+  <ul>
+    <img src="https://img.shields.io/badge/Codemagic-00B0E0?style=for-the-badge&logo=codemagic&logoColor=white" alt="Codemagic">
+    <img src="https://img.shields.io/badge/App%20Center-0078D4?style=for-the-badge&logo=appcenter&logoColor=white" alt="App Center">
+  </ul>
+</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
