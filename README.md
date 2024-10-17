@@ -3,7 +3,8 @@
 <h3>Soy un desarrollador móvil apasionado en el mundo Android del Perú</h3>
 <p>Desarrollador Android con 4 años de experiencia utilizando Kotlin, manejo completo de Firebase y Git. Apasionado por la tecnología y el desarrollo móvil con Android, siempre busco la mejor manera de realizar proyectos de calidad y superarme en cada uno de ellos.
 <br/><br/>
-Tengo experiencia en desarrollo de aplicaciones móviles, colaboración en equipos ágiles, optimización y rendimiento, y trabajos freelance para seguir adquiriendo conocimientos y habilidades. Mis habilidades técnicas incluyen Kotlin, Firebase y Git, además de conocimientos en UI/UX, integración de API y pruebas unitarias y funcionales.</p>
+Tengo experiencia en desarrollo de aplicaciones móviles, colaboración en equipos ágiles, optimización y rendimiento, y trabajos freelance para seguir adquiriendo conocimientos y habilidades. Mis habilidades técnicas incluyen Kotlin, Firebase y Git, además de conocimientos en UI/UX, integración de API y pruebas unitarias y funcionales.</br></br>
+🟢 Disponible para desarrollar apps móviles como freelancer, brindando un servicio integral que abarca desde el diseño hasta el despliegue final. Para consultas o coordinación, contáctame a través de LinkedIn.</p>
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leandro1995&show_icons=true&theme=cobalt&custom_title=Estadisticas%20del%20repositorio&rank_icon=github" alt="Estadisticas del repositorio">
