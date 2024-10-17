@@ -5,7 +5,7 @@
 Tengo experiencia en desarrollo de aplicaciones móviles, colaboración en equipos ágiles, optimización y rendimiento, y trabajos freelance para seguir adquiriendo conocimientos y habilidades. Mis habilidades técnicas incluyen Kotlin, Firebase y Git, además de conocimientos en UI/UX, integración de API y pruebas unitarias y funcionales.</p>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandro1995&show_icons=true&theme=cobalt" alt="Estadisticas del repositorio">
+  <img src="https://github-readme-stats.vercel.app/api?username=leandro1995&show_icons=true&theme=cobalt&custom_title=Estadisticas del repositorio" alt="Estadisticas del repositorio">
 </div>
 
 - 📝 Escribo artículos de Android [https://medium.com/@leccbo1995](https://medium.com/@leccbo1995)
