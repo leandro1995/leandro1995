@@ -1,4 +1,5 @@
 <h1>Hola, Soy Leandro Castillo Borja 🌕🍂🍂</h1>
+<p> <img src="https://komarev.com/ghpvc/?username=leandro1995&label=Profile%20views&color=0e75b6&style=flat" alt="leandro1995" /> </p>
 <h3>Soy un desarrollador móvil apasionado en el mundo Android del Perú</h3>
 <p>Desarrollador Android con 4 años de experiencia utilizando Kotlin, manejo completo de Firebase y Git. Apasionado por la tecnología y el desarrollo móvil con Android, siempre busco la mejor manera de realizar proyectos de calidad y superarme en cada uno de ellos.
 <br/><br/>
