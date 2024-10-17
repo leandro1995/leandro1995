@@ -51,7 +51,7 @@ Tengo experiencia en desarrollo de aplicaciones móviles, colaboración en equip
 <h2 align="left">Contactarme:</h2>
 <p>
   <a href="tel:+51984649707" target="_blank">
-    <img src="https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white" alt="PhonePe">
+    <img src="https://img.shields.io/badge/Celular-54039A?style=for-the-badge&logo=phonepe&logoColor=white" alt="Celular">
   </a>
   <a href="mailto:leccbo1995@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
