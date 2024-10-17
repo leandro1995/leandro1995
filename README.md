@@ -8,11 +8,15 @@ Tengo experiencia en desarrollo de aplicaciones móviles, colaboración en equip
   <img src="https://github-readme-stats.vercel.app/api?username=leandro1995&show_icons=true&theme=cobalt&custom_title=Estadisticas%20del%20repositorio&rank_icon=github" alt="Estadisticas del repositorio">
 </div>
 
-- 📝 Escribo artículos de Android [https://medium.com/@leccbo1995](https://medium.com/@leccbo1995)
-
-- 📫 Puedes contactarme al correo siguiente correo **leccbo1995@gmail.com**
-
-- ⚡ Tener en cuenta **al mandar el correo especificar desarrollo móvil y un Word con la idea principal los más detallado**
+<h2 align="left">Tecnologías:</h2>
+<li>
+  <b>Versión de control:</b><br/><br/>
+  <ul>
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+    <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
+  </ul>
+</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
