@@ -7,7 +7,6 @@ Tengo experiencia en desarrollo de aplicaciones móviles, colaboración en equip
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leandro1995&show_icons=true&theme=cobalt&custom_title=Estadisticas%20del%20repositorio&rank_icon=github" alt="Estadisticas del repositorio">
 </div>
-
 <h2 align="left">Herramientas:</h2>
 <li>
   <b>Versión de control:</b><br/><br/>
@@ -50,4 +49,17 @@ Tengo experiencia en desarrollo de aplicaciones móviles, colaboración en equip
   <a href="https://medium.com/@leccbo1995" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
+</p>
+<h2 align="left">Contactarme:</h2>
+<p>
+  <a href="tel:+51984649707" target="_blank">
+    <img src="https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white" alt="PhonePe">
+  </a>
+  <a href="mailto:leccbo1995@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+<p>
+  ⚠️ <b>Atención:</b></br>
+  <d>Recomiendo más contactarme por LinkedIn debido que mi teléfono y correo últimamente recibe mucho spam se los agradecería mucho. Gracias.</d>
 </p>
