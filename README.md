@@ -37,6 +37,10 @@ Tengo experiencia en desarrollo de aplicaciones móviles, colaboración en equip
     <img src="https://img.shields.io/badge/App%20Center-0078D4?style=for-the-badge&logo=appcenter&logoColor=white" alt="App Center">
   </ul>
 </li>
+<br/>
+<h2 align="left">Lenguaje de programación:</h2>
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
