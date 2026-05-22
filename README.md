@@ -164,20 +164,6 @@ Soy un desarrollador Android enfocado en crear aplicaciones móviles modernas, e
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandro1995&show_icons=true&theme=cobalt&custom_title=Estad%C3%ADsticas%20de%20GitHub&rank_icon=github" alt="Estadísticas de GitHub de Leandro Castillo Borja" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro1995&layout=compact&theme=cobalt&langs_count=8" alt="Lenguajes más usados" />
-</div>
-
----
-
 ## 🤝 Disponible para colaborar
 
 Estoy disponible para proyectos relacionados con desarrollo móvil Android, especialmente en:
